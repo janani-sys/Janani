@@ -1,0 +1,23 @@
+#a {
+  background-color:rgb(201, 13, 123); 
+  text-align: center;                
+  padding: 20px;                      
+  width: 300px;                       
+  margin: 50px auto;                  
+  border-radius: 10px;                
+}
+
+#one {
+  cursor: pointer;
+  border: none;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+
+#c {
+  display: block;
+  margin: 10px auto;
+  width: 120px; 
+}
